@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
 
         //Thhis is a new feature
+        // feature from VS
         }
     }
 }
